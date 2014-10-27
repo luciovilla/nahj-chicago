@@ -26,6 +26,13 @@ Version: 1.0.0
 	padding-top: 20px;
 }
 
+footer.black-wrapper {
+	background: #29292c;
+}
+.subfooter {
+	background: #2d2d30;
+}
+
 @media (max-width: 767px){
 	footer ul.pull-right {
 	float: right !important;
