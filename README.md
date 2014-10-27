@@ -1,8 +1,8 @@
-[nahj-chicago][nahj-chi.com]
+[NAHJ Chicago][nahj-chi.org]
 ============================
 
 > Powered by [Genesis WordPress ~0.2.55][genesis-wordpress]
 
 
-[nahj-chi.com]: http://www.nahj-chi.com/
+[nahj-chi.org]: http://www.nahj-chi.org/
 [genesis-wordpress]: https://github.com/genesis/wordpress/
